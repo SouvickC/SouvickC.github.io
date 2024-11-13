@@ -11,10 +11,14 @@ I am currently pursuing a **Master's** at [CAU Kiel University](https://www.tf.u
 
 In my first semester(Winter 2024), I am studying **Advanced Digital Signal Processing**, **Pattern Recognition and Machine Learning**, **Optimization and Optimal Control**, and **Essential Numerical Methods**.
 
-Previously, I worked as a **Senior Engineer** at [AICT Engineering](https://www.innovativecontroltech.com/) and **Senior Design Engineer** at [Johnson Controls](https://www.johnsoncontrols.com/), India. I completed my Bachelor's in [Electronics & Electrical Engineering](https://heritageit.edu/AEIE.aspx) from [Heritage Institute of Technology](https://heritageit.edu/), India, in 2019.
 
+
+
+
+Experience
+------
+Previously, I worked as a **Senior Engineer** at [AICT Engineering](https://www.innovativecontroltech.com/) and **Senior Design Engineer** at [Johnson Controls](https://www.johnsoncontrols.com/), India. I completed my Bachelor's in [Electronics & Electrical Engineering](https://heritageit.edu/AEIE.aspx) from [Heritage Institute of Technology](https://heritageit.edu/), India, in 2019.
 
 
 Recent News
 ------
-
