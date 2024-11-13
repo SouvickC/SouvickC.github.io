@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hallo, Souvick here"
+title: "Hello, Souvick here"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,10 +14,12 @@ In my first semester(Winter 2024), I am studying **Advanced Digital Signal Proce
 
 
 
-
 Experience
 ------
-Previously, I worked as a **Senior Engineer** at [AICT Engineering](https://www.innovativecontroltech.com/) and **Senior Design Engineer** at [Johnson Controls](https://www.johnsoncontrols.com/), India. I completed my Bachelor's in [Electronics & Electrical Engineering](https://heritageit.edu/AEIE.aspx) from [Heritage Institute of Technology](https://heritageit.edu/), India, in 2019.
+
+After completing my Bachelor's in [Electronics & Electrical Engineering](https://heritageit.edu/AEIE.aspx) from [Heritage Institute of Technology](https://heritageit.edu/), India, in 2019, I worked as a **Senior Engineer** at [AICT Engineering](https://www.innovativecontroltech.com/) and **Senior Design Engineer** at [Johnson Controls](https://www.johnsoncontrols.com/), India, until 2024.
+
+
 
 
 Recent News
