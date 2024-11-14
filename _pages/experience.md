@@ -12,8 +12,10 @@ redirect_from:
 
 * April 2024 - June 2022 : Senior Engineer
   * [AICT Engineering](https://www.innovativecontroltech.com/) (A Part of Nordomatic Group)
+  * Worked on [Honeywell WebsN4](https://www.honeywellbuildings.in/bms/building-control-system/webs-n4), [Johnson Controls FX](https://www.johnsoncontrols.com/building-automation-and-controls/facility-explorer), [Schenider Electric EcoStruxure](https://www.se.com/us/en/product-range/62111-ecostruxure-building-operation-software/#overview)
   * Manager : [Anand Patil](https://www.linkedin.com/in/anand-patil-b6579319/)
 
 * May 2022- August 2019 : Senior Design Engineer
   * [Johnson Controls](https://www.johnsoncontrols.com/)
+  * Worked on [Metasys](https://www.johnsoncontrols.com/building-automation-and-controls/building-automation-systems-bas), [Open Blue Solution](https://www.johnsoncontrols.com/openblue)
   
