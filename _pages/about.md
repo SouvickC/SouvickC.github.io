@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing a **Master's** at [CAU Kiel University](https://www.tf.uni-kiel.de/etit/instetit/en?set_language=en), Germany, in [Electrical and Information Technology](https://www.tf.uni-kiel.de/etit/instetit/en?set_language=en). 
+I am currently pursuing **Master's** at [CAU Kiel University](https://www.tf.uni-kiel.de/etit/instetit/en?set_language=en), Germany, in [Electrical and Information Technology](https://www.tf.uni-kiel.de/etit/instetit/en?set_language=en). 
 
 In my first semester(Winter 2024), I am studying **Advanced Digital Signal Processing**, **Pattern Recognition and Machine Learning**, **Optimization and Optimal Control**, and **Essential Numerical Methods**.
 
