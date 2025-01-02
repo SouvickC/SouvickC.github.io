@@ -11,8 +11,8 @@ main:
   - title: "Experience"
     url: /experience/   
 
-    title: "Newsletter
-    url: https://souvickc.substack.com/
+  - title: "Newsletter"
+    url: /https://souvickc.substack.com/
 
   #- title: "Publications"
   #  url: /publications/
