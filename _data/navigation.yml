@@ -12,7 +12,7 @@ main:
     url: /experience/   
 
   - title: "Newsletter"
-    url: /https://souvickc.substack.com/
+    url: https://souvickc.substack.com/
 
   #- title: "Publications"
   #  url: /publications/
