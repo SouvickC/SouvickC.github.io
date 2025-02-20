@@ -20,12 +20,12 @@ Talks
 - Presented a **talk** on **"Pattern Recognition Techniques in Brain-Computer Interface (BCI)"** for the course *Pattern Recognition and Machine Learning*. [Link](https://dss-kiel.de/index.php/teaching/lectures/lecture-pattern-recognition), [Presentation](/files/PRML_Talk_SouvickC.pdf)
 
 
-- Presented a **literature survey** for the course *Seminar - Information and Coding Theory* on **"Pointing Error and Mitigation Techniques Using Machine Learning Algorithms in Free-Space Optical Communication".** [Paper](/files/Seminar_ICT_paper_Souvick_C.pdf),  [Presentation](/files/Seminar_ICT_PPT_Souvick_C.pdf)
+- Presented a **literature survey** for the course *Seminar - Information and Coding Theory* on **"Pointing Error and Mitigation Techniques Using Machine Learning Algorithms in Free-Space Optical Communication".** [[Paper]](/files/Seminar_ICT_paper_Souvick_C.pdf),  [[Presentation]](/files/Seminar_ICT_PPT_Souvick_C.pdf)
 
 
 Recent News
 ----
 
-- Launched my own newsletter, where I curate my favorite reads, books, articles, research papers, podcasts, videos, foods and insights from my master's Journey in Germany. [Link](https://souvickc.substack.com/)
+- Launched my own newsletter, where I curate my favorite reads, books, articles, research papers, podcasts, videos, foods and insights from my master's Journey in Germany. [[Link]](https://souvickc.substack.com/)
 
  
