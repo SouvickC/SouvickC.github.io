@@ -7,7 +7,7 @@
 main:
   - title: "CV"
     url: /files/Souvick_C_CV.pdf
-    target: _blank
+  
 
   - title: "Experience"
     url: /experience/   
