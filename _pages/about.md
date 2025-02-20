@@ -15,5 +15,8 @@ I completed my Bachelor's in [Electronics & Instrumentation Engineering](https:/
 
 
 
+
 Recent News
-------
+----
+1. Launched my newletter over substack. 
+<iframe src="https://souvickc.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>   
