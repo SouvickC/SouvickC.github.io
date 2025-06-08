@@ -21,7 +21,7 @@ I completed my Bachelor's in [Electronics & Instrumentation Engineering](https:/
 Recent News
 ----
 
-- I have started working as a Research Assistant in the [Bio-Inspired Computation group](https://www.uni-kiel.de/en/tf/research/institute-etit/bio-inspired-computation), CAU Kiel led by [Prof. Dr. Jan Steinkühler](https://jansteinkuehler.github.io/)
+- I have started working as a Research Assistant in the [Bio-Inspired Computation group](https://www.uni-kiel.de/en/tf/research/institute-etit/bio-inspired-computation), CAU Kiel led by [Prof. Dr. Jan Steinkühler](https://scholar.google.com/citations?user=2Dzpoo0AAAAJ&hl=en)
 
 - I have launched my own newsletter, where I curate my favorite reads, books, articles, research papers, podcasts, videos, foods and insights from my master's Journey in Germany. [[Link]](https://souvickc.substack.com/)
 
