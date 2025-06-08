@@ -15,8 +15,8 @@ main:
   - title: "Newsletter"
     url: https://souvickc.substack.com/
 
-  #- title: "Publications"
-  #  url: /publications/
+  - title: "Pet Projects"
+    url: https://github.com/SouvickC?tab=repositories
 
   #- title: "Talks"
    # url: /talks/    
