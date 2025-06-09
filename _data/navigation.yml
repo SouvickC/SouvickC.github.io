@@ -7,6 +7,7 @@
 main:
   - title: "CV"
     url: https://drive.google.com/file/d/1-b9gcQL7HEVl7nFJbknTM0K_Ifs9eV4l/view?usp=drive_link
+    target: _blank
     
 
   - title: "Experience"
