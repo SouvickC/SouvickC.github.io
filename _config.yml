@@ -21,7 +21,7 @@ repository               : "souvickc/souvickc.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpeg)"
+  avatar           : "profile.jpeg"
   name             : "Souvick Chakraborty"
   pronouns         : # example: "she/her"  
   bio              : "Master's Student in Electrical and Information Engineering at Kiel University"
