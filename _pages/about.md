@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello, Souvick here"
+title: "Souvick Chakraborty (সুভউশ ছচছকছরত্য)"
 author_profile: true
 redirect_from: 
   - /about/
