@@ -36,18 +36,18 @@ Projects
 
 I work at the intersection of machine learning and signal processing to develop adaptive data-driven models.
 
-<table style="border-collapse: collapse; border: none;">
-<tr style="border: none;">
-<td width="160" style="border: none; vertical-align: top;">
-<img src="images\FOG.png" width="150">
-</td>
-<td style="border: none; vertical-align: top;">
+<div style="display:flex;gap:12px;align-items:flex-start;">
+  <img src="{{ '/images/FOG.png' | relative_url }}" width="150" alt="FoG project">
+  <div>
+    <strong><a href="https://github.com/rmndrs89/advanced-time-series-prediction">
+      Automated Detection of Freezing of Gait in Parkinson's Disease from Accelerometer Data
+    </a></strong><br>
+    <strong>Souvick Chakraborty</strong>, 
+    <a href="https://scholar.google.com/citations?user=LZYbIbUAAAAJ">Dr. Robbin Romijnders</a>
+  </div>
+</div>
 
-**[Automated Detection of Freezing of Gait in Parkinson's Disease from Accelerometer Data](https://github.com/rmndrs89/advanced-time-series-prediction)**  
-**Souvick Chakraborty**, [Dr. Robbin Romijnders]((https://scholar.google.com/citations?user=LZYbIbUAAAAJ))
-</td>
-</tr>
-</table>
+
 
 
 
