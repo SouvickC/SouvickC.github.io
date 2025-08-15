@@ -7,13 +7,47 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing **Master's** at [CAU Kiel University](https://www.tf.uni-kiel.de/etit/instetit/en?set_language=en), Germany, in [Electrical and Information Technology](https://www.tf.uni-kiel.de/etit/instetit/en?set_language=en). 
+Hello, I am a Master's student at [CAU Kiel University](https://www.tf.uni-kiel.de/etit/instetit/en?set_language=en), Germany, pursuing [Electrical and Information Technology](https://www.tf.uni-kiel.de/etit/instetit/en?set_language=en). 
 
-<!-- In my first semester(Winter 2024), I am studying **Advanced Digital Signal Processing**, **Pattern Recognition and Machine Learning**, **Optimization and Optimal Control**, and **Essential Numerical Methods**. -->
+Along with my studies, I am working as a Research Assistant (HiWi) in the [Bio-Inspired Computation group](https://www.uni-kiel.de/en/tf/research/institute-etit/bio-inspired-computation) at CAU Kiel, led by [Prof. Dr. Jan Steinkühler](https://scholar.google.com/citations?user=2Dzpoo0AAAAJ&hl=en). My work mainly involves training and developing machine learning and deep learning pipelines for protein yield prediction, and integrating pipetting robots into the workflow for required experiments. 
+
+
 
 I completed my Bachelor's in [Electronics & Instrumentation Engineering](https://heritageit.edu/AEIE.aspx) from [Heritage Institute of Technology](https://heritageit.edu/), India, in 2019.
 
+## Modules Covered
 
+<!-- - Bio-inspired Information Pathways   -->
+<!-- - Channel Coding   -->
+- Advanced Digital Signal Processing  
+<!-- - Advanced Digital Communications   -->
+- Generative AI  
+- Seminar on Generative Artificial Intelligence in Natural Science, Engineering, and Material Design  
+- Laboratory Real-time Signal Processing  
+- Seminar Information and Coding Theory  
+- Essential Numerical Methods  
+- Pattern Recognition and Machine Learning  
+<!-- - Adaptive Filters   -->
+
+
+
+Projects
+---
+
+I work at the intersection of machine learning and signal processing to develop adaptive data-driven models.
+
+<table style="border-collapse: collapse; border: none;">
+<tr style="border: none;">
+<td width="160" style="border: none; vertical-align: top;">
+<img src="images\FOG.png" width="150">
+</td>
+<td style="border: none; vertical-align: top;">
+
+**[Automated Detection of Freezing of Gait in Parkinson's Disease from Accelerometer Data](https://github.com/rmndrs89/advanced-time-series-prediction)**  
+**Souvick Chakraborty**, [Dr. Robbin Romijnders]((https://scholar.google.com/citations?user=LZYbIbUAAAAJ))
+</td>
+</tr>
+</table>
 
 
 
