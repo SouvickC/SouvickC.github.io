@@ -1,0 +1,2 @@
+url: ""        # no absolute domain when serving locally
+baseurl: ""    # no subpath when serving at http://localhost:4000
