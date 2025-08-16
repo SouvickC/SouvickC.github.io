@@ -20,13 +20,15 @@ I completed my Bachelor's in [Electronics & Instrumentation Engineering](https:/
 <!-- - Bio-inspired Information Pathways   -->
 <!-- - Channel Coding   -->
 - Advanced Digital Signal Processing  
+- Pattern Recognition and Machine Learning
+- Essential Numerical Methods
 <!-- - Advanced Digital Communications   -->
-- Generative AI  
+- Generative AI 
 - Seminar on Generative Artificial Intelligence in Natural Science, Engineering, and Material Design  
 - Laboratory Real-time Signal Processing  
 - Seminar Information and Coding Theory  
-- Essential Numerical Methods  
-- Pattern Recognition and Machine Learning  
+
+
 <!-- - Adaptive Filters   -->
 
 
