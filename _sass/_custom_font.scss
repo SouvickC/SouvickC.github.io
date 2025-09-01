@@ -2,19 +2,26 @@
 
 /* Body text */
 body {
-  font-size: 15px;   /* default ~16px, reduce to 15 or 14 if you want smaller */
-  line-height: 1.6;  /* spacing for readability */
+  font-size: 15px;   /* reduce base font size */
+  line-height: 1.6;
 }
 
-/* Headings */
-h1 { font-size: 1.9em; }
-h2 { font-size: 1.6em; }
-h3 { font-size: 1.3em; }
-h4 { font-size: 1.1em; }
-h5 { font-size: 1em; }
-h6 { font-size: 0.9em; }
-
-/* Navigation and footer */
-.masthead, .site-nav, .site-footer {
-  font-size: 14px;
+/* Override heading sizes */
+h1, .page__title {
+  font-size: 1.8em !important;
+}
+h2 {
+  font-size: 1.5em !important;
+}
+h3 {
+  font-size: 1.3em !important;
+}
+h4 {
+  font-size: 1.1em !important;
+}
+h5 {
+  font-size: 1em !important;
+}
+h6 {
+  font-size: 0.9em !important;
 }
