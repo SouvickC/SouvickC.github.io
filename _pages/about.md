@@ -37,9 +37,10 @@ Projects
 ---
 
 I enjoy building projects ranging from simple note-taking apps to advanced machine learning and signal processing models, each helping me explore adaptive data-driven systems
-<div class="projects-section">
-  <div class="projects-grid">
-    <img src="{{ '/images/FOG.png' | relative_url }}" width="150" alt="FoG project">
+
+<div style="display:flex;gap:12px;align-items:flex-start;">
+    <img src="{{ '/images/FOG.png' | relative_url }}" width="150" alt="FoG project" style="border-radius:8px; box-shadow:0 4px 8px rgba(0,0,0,0.15);">
+      <div>
       <strong>
         Automated Detection of Freezing of Gait in Parkinson's Disease from Accelerometer Data </strong>
         <a href="https://github.com/rmndrs89/advanced-time-series-prediction">
@@ -52,7 +53,7 @@ I enjoy building projects ranging from simple note-taking apps to advanced machi
 
 <br>
 <div style="display:flex;gap:12px;align-items:flex-start;">
-  <img src="{{ '/images/notepad.png' | relative_url }}" width="150" alt="notepad project">
+  <img src="{{ '/images/notepad.png' | relative_url }}" width="150" alt="notepad project" style="border-radius:8px; box-shadow:0 4px 8px rgba(0,0,0,0.15);" >
   <div>
     <strong>
       Offline Markdown Notepad with LLM Summarizer
@@ -63,6 +64,21 @@ I enjoy building projects ranging from simple note-taking apps to advanced machi
     <br>
   </div>
 </div>
+
+<br>
+<div style="display:flex;gap:12px;align-items:flex-start;">
+  <img src="{{ '/images/scratch.png' | relative_url }}" width="150" alt="scratch project" style="border-radius:8px; box-shadow:0 4px 8px rgba(0,0,0,0.15);" >
+  <div>
+    <strong>
+      Building ML models from scratch
+        </strong>
+        <a href="https://github.com/SouvickC/from_scratch" target="_blank">
+        <img src="https://img.shields.io/badge/Source-Code-black?logo=github" alt="GitHub"/>
+        </a>
+    <br>
+  </div>
+</div>
+
 
 
 
