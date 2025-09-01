@@ -44,14 +44,15 @@ I enjoy building projects ranging from simple note-taking apps to advanced machi
   </div>
 </div>
 
+<br>
 <div style="display:flex;gap:12px;align-items:flex-start;">
-  <img src="{{ '\images\notepad.png' | relative_url }}" width="150" alt="FoG project">
+  <img src="{{ '\images\notepad.png' | relative_url }}" width="150" alt="notepad project">
   <div>
     <strong>
       Offline Markdown Notepad with LLM Summarizer
         </strong>
         <a href="https://github.com/SouvickC/Markdown_Notepad" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-Source-black?logo=github&style=for-the-badge" alt="GitHub Source"/>
+        <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" alt="GitHub"/>
         </a>
     <br>
   </div>
