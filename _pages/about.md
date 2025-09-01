@@ -11,9 +11,7 @@ Hello, I am a Master's student at [CAU Kiel University](https://www.tf.uni-kiel.
 
 Along with my studies, I am working as a Research Assistant (HiWi) in the [Bio-Inspired Computation group](https://www.uni-kiel.de/en/tf/research/institute-etit/bio-inspired-computation) at CAU Kiel, led by [Prof. Dr. Jan Steinkühler](https://scholar.google.com/citations?user=2Dzpoo0AAAAJ&hl=en). My work mainly involves training and developing machine learning and deep learning pipelines for protein yield prediction, and integrating pipetting robots into the workflow for required experiments. 
 
-
-
-I completed my Bachelor's in [Electronics & Instrumentation Engineering](https://heritageit.edu/AEIE.aspx) from [Heritage Institute of Technology](https://heritageit.edu/), India, in 2019.
+I completed my Bachelor's in [Electronics & Instrumentation Engineering](https://heritageit.edu/AEIE.aspx) from [Heritage Institute of Technology](https://heritageit.edu/), Kolkata, India, in 2019.
 
 ## Modules covered so far in my master’s
 
@@ -36,9 +34,10 @@ I enjoy building projects ranging from simple note-taking apps to advanced machi
 <div style="display:flex;gap:12px;align-items:flex-start;">
   <img src="{{ '/images/FOG.png' | relative_url }}" width="150" alt="FoG project">
   <div>
-    <strong><a href="https://github.com/rmndrs89/advanced-time-series-prediction">
-      Automated Detection of Freezing of Gait in Parkinson's Disease from Accelerometer Data
-    </a></strong><br>
+    <strong>
+      Automated Detection of Freezing of Gait in Parkinson's Disease from Accelerometer Data </strong> <a href="https://github.com/rmndrs89/advanced-time-series-prediction">
+        <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" alt="GitHub"/>
+        </a><br>
     Team : <strong>Souvick Chakraborty</strong>, 
     <a href="https://scholar.google.com/citations?user=LZYbIbUAAAAJ">Dr. Robbin Romijnders</a>
   </div>
