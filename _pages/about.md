@@ -15,18 +15,13 @@ Along with my studies, I am working as a Research Assistant (HiWi) in the [Bio-I
 
 I completed my Bachelor's in [Electronics & Instrumentation Engineering](https://heritageit.edu/AEIE.aspx) from [Heritage Institute of Technology](https://heritageit.edu/), India, in 2019.
 
-## Modules Covered
+## Modules Covered till in Master's in Electrical and Information Engineering
 
 <!-- - Bio-inspired Information Pathways   -->
 <!-- - Channel Coding   -->
-- Advanced Digital Signal Processing  
-- Pattern Recognition and Machine Learning
-- Essential Numerical Methods
+- Advanced Digital Signal Processing, Pattern Recognition and Machine Learning, Essential Numerical Methods, Generative AI, 
+- Seminar on Generative Artificial Intelligence, Seminar on Information and Coding Theory, Laboratory Real-time Signal Processing
 <!-- - Advanced Digital Communications   -->
-- Generative AI 
-- Seminar on Generative Artificial Intelligence in Natural Science, Engineering, and Material Design  
-- Laboratory Real-time Signal Processing  
-- Seminar Information and Coding Theory  
 
 
 <!-- - Adaptive Filters   -->
