@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Souvick Chakraborty "
+title: "Hi! Welcome to my website"
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,7 +15,8 @@ Along with my studies, I am working as a Research Assistant (HiWi) in the [Bio-I
 
 I completed my Bachelor's in [Electronics & Instrumentation Engineering](https://heritageit.edu/AEIE.aspx) from [Heritage Institute of Technology](https://heritageit.edu/), India, in 2019.
 
-## Modules Covered till in Master's in Electrical and Information Engineering
+## Modules covered so far in my master’s
+
 
 <!-- - Bio-inspired Information Pathways   -->
 <!-- - Channel Coding   -->
@@ -27,11 +28,10 @@ I completed my Bachelor's in [Electronics & Instrumentation Engineering](https:/
 <!-- - Adaptive Filters   -->
 
 
-
 Projects
 ---
 
-I work at the intersection of machine learning and signal processing to develop adaptive data-driven models.
+I enjoy building projects ranging from simple note-taking apps to advanced machine learning and signal processing models, each helping me explore adaptive data-driven systems
 
 <div style="display:flex;gap:12px;align-items:flex-start;">
   <img src="{{ '/images/FOG.png' | relative_url }}" width="150" alt="FoG project">
@@ -39,8 +39,21 @@ I work at the intersection of machine learning and signal processing to develop 
     <strong><a href="https://github.com/rmndrs89/advanced-time-series-prediction">
       Automated Detection of Freezing of Gait in Parkinson's Disease from Accelerometer Data
     </a></strong><br>
-    <strong>Souvick Chakraborty</strong>, 
+    Team : <strong>Souvick Chakraborty</strong>, 
     <a href="https://scholar.google.com/citations?user=LZYbIbUAAAAJ">Dr. Robbin Romijnders</a>
+  </div>
+</div>
+
+<div style="display:flex;gap:12px;align-items:flex-start;">
+  <img src="{{ '\images\notepad.png' | relative_url }}" width="150" alt="FoG project">
+  <div>
+    <strong>
+      Offline Markdown Notepad with LLM Summarizer
+        </strong>
+        <a href="https://github.com/SouvickC/Markdown_Notepad" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-Source-black?logo=github&style=for-the-badge" alt="GitHub Source"/>
+        </a>
+    <br>
   </div>
 </div>
 
