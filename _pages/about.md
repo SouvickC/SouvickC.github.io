@@ -13,13 +13,19 @@ Along with my studies, I am working as a Research Assistant (HiWi) in the [Bio-I
 
 I completed my Bachelor's in [Electronics & Instrumentation Engineering](https://heritageit.edu/AEIE.aspx) from [Heritage Institute of Technology](https://heritageit.edu/), Kolkata, India, in 2019.
 
-## Modules covered so far in my master’s
+## Modules covered so far in my Master’s
 
 
 <!-- - Bio-inspired Information Pathways   -->
 <!-- - Channel Coding   -->
-- Advanced Digital Signal Processing, Pattern Recognition and Machine Learning, Essential Numerical Methods, Generative AI, 
-- Seminar on Generative Artificial Intelligence, Seminar on Information and Coding Theory, Laboratory Real-time Signal Processing
+#### Core and Elective Modules
+- Advanced Digital Signal Processing, 
+- Pattern Recognition and Machine Learning, 
+- Essential Numerical Methods, 
+- Generative AI 
+#### Seminar and Laboratory
+- Seminar on Generative Artificial Intelligence, Seminar on Information and Coding Theory 
+- Laboratory Real-time Signal Processing
 <!-- - Advanced Digital Communications   -->
 
 
@@ -45,7 +51,7 @@ I enjoy building projects ranging from simple note-taking apps to advanced machi
 
 <br>
 <div style="display:flex;gap:12px;align-items:flex-start;">
-  <img src="{{ '\images\notepad.png' | relative_url }}" width="150" alt="notepad project">
+  <img src="{{ '/images/notepad.png' | relative_url }}" width="150" alt="notepad project">
   <div>
     <strong>
       Offline Markdown Notepad with LLM Summarizer
