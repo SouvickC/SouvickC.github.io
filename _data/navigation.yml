@@ -19,8 +19,8 @@ main:
   - title: "Projects"
     url: https://github.com/SouvickC?tab=repositories
 
-  #- title: "Talks"
-   # url: /talks/    
+  - title: "Bookshelf"
+    url:  
 
   #- title: "Teaching"
    # url: /teaching/    

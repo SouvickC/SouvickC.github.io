@@ -24,6 +24,7 @@ I completed my Bachelor's in [Electronics & Instrumentation Engineering](https:/
 - Pattern Recognition and Machine Learning, 
 - Essential Numerical Methods, 
 - Generative AI 
+  
 ### Seminar and Laboratory
 - Seminar on Generative Artificial Intelligence, Seminar on Information and Coding Theory 
 - Laboratory Real-time Signal Processing
