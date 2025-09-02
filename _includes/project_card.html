@@ -1,45 +1,33 @@
-{%- comment -%}
-Reusable project card. Pass: title, image, github, subtitle, team, links (optional).
-{%- endcomment -%}
-
-{%- assign title   = include.title   | default: "Untitled project" -%}
-{%- assign image   = include.image   | default: "/images/placeholder.png" -%}
-{%- assign github  = include.github  -%}
-{%- assign subtitle= include.subtitle -%}
-{%- assign team    = include.team    -%}
-{%- assign links   = include.links   -%} {# optional: array of {url, label} #}
+{% comment %}
+Reusable project card include.
+Parameters: title, image, github, subtitle, team, links (array of {url, label}).
+{% endcomment %}
 
 <div class="project-card">
-  <img
-    src="{{ image | relative_url }}"
-    alt="{{ title | escape }}"
-    class="project-thumb"
-    loading="lazy"
-    decoding="async"
-  >
+  <img src="{{ include.image | relative_url }}" alt="{{ include.title }}" class="project-thumb">
   <div class="project-body">
-    <strong class="project-title">{{ title }}</strong>
+    <strong class="project-title">{{ include.title }}</strong>
 
-    {%- if github -%}
-      <a href="{{ github }}" class="project-badge" aria-label="Source code on GitHub">
+    {% if include.github %}
+      <a href="{{ include.github }}" class="project-badge">
         <img src="https://img.shields.io/badge/Source-Code-black?logo=github" alt="GitHub"/>
       </a>
-    {%- endif -%}
+    {% endif %}
 
-    {%- if subtitle -%}
-      <div class="project-sub">{{ subtitle }}</div>
-    {%- endif -%}
+    {% if include.subtitle %}
+      <div class="project-sub">{{ include.subtitle }}</div>
+    {% endif %}
 
-    {%- if team -%}
-      <div class="project-team">Team: {{ team | markdownify }}</div>
-    {%- endif -%}
+    {% if include.team %}
+      <div class="project-team">Team: {{ include.team | markdownify }}</div>
+    {% endif %}
 
-    {%- if links and links.size > 0 -%}
+    {% if include.links and include.links.size > 0 %}
       <div class="project-links">
-        {%- for L in links -%}
+        {% for L in include.links %}
           <a href="{{ L.url }}">{{ L.label }}</a>{% unless forloop.last %} · {% endunless %}
-        {%- endfor -%}
+        {% endfor %}
       </div>
-    {%- endif -%}
+    {% endif %}
   </div>
 </div>

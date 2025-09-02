@@ -40,13 +40,12 @@ Projects
 
 I enjoy building projects ranging from simple note-taking apps to advanced machine learning and signal processing models, each helping me explore adaptive data-driven systems
 
-{% include project_card.html 
+{% include project_card.html
    title="Automated Detection of Freezing of Gait in Parkinson's Disease from Accelerometer Data"
    github="https://github.com/rmndrs89/advanced-time-series-prediction"
    image="/images/FOG.png"
-   team="**Souvick Chakraborty**, [Dr. Robbin Romijnders](https://scholar.google.com/citations?user=LZYbIbUAAAAJ)"
-%}
-
+   team="**Souvick Chakraborty**, [Dr. Robbin Romijnders](https://scholar.google.com/citations?user=LZYbIbUAAAAJ)" %}
+   
 
 <div style="display:flex;gap:12px;align-items:flex-start;">
     <img src="{{ '/images/FOG.png' | relative_url }}" width="150" alt="FoG project" style="border-radius:8px; box-shadow:0 4px 8px rgba(0,0,0,0.15);">
