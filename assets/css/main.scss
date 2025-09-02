@@ -47,13 +47,15 @@
 .project-card { display:flex; gap:12px; align-items:flex-start; margin:14px 0; }
 .project-thumb { width:150px; max-width:30vw; border-radius:8px; box-shadow:0 4px 8px rgba(0,0,0,.15); flex-shrink:0; }
 .project-body { line-height:1.35; }
-.project-title { display:inline-block; margin-right:6px; }
+.project-title{display:block;margin-bottom:4px}
 .project-badge img { vertical-align:middle; margin-left:6px; }
 .project-sub { margin-top:2px; opacity:.9; }
-.project-team { margin-top:4px; }
+.project-team { margin-top:6px; }
 .project-links { margin-top:6px; }
 .project-links a { text-decoration:none; border-bottom:1px dashed currentColor; }
 
+/* make markdownified <p> inline so "Team:" stays on one line */
+.project-team .md-inline p{display:inline;margin:0}
 @media (max-width:600px) {
   .project-card { flex-direction:column; }
   .project-thumb { width:100%; max-width:100%; }

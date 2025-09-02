@@ -9,9 +9,11 @@ Parameters: title, image, github, subtitle, team, links (array of {url, label}).
     <strong class="project-title">{{ include.title }}</strong>
 
     {% if include.github %}
-      <a href="{{ include.github }}" class="project-badge">
-        <img src="https://img.shields.io/badge/Source-Code-black?logo=github" alt="GitHub"/>
-      </a>
+      <div class="project-links">
+        <a href="{{ include.github }}" class="project-badge" aria-label="Source code on GitHub">
+          <img src="https://img.shields.io/badge/Source-Code-black?logo=github" alt="GitHub"/>
+        </a>
+      </div>
     {% endif %}
 
     {% if include.subtitle %}
@@ -19,7 +21,9 @@ Parameters: title, image, github, subtitle, team, links (array of {url, label}).
     {% endif %}
 
     {% if include.team %}
-      <div class="project-team">Team: {{ include.team | markdownify }}</div>
+      <div class="project-team">
+        Team: <span class="md-inline">{{ include.team | markdownify }}</span>
+      </div>
     {% endif %}
 
     {% if include.links and include.links.size > 0 %}
