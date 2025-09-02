@@ -1,0 +1,14 @@
+# Local overrides for development
+url: "http://localhost:4000"
+baseurl: ""          # critical: empty for local so /assets/... works
+livereload: true
+incremental: true
+
+# keep dev-only files out of the build
+exclude:
+  - "README.md"
+  - "Gemfile*"
+  - "docker-compose.yml"
+  - ".dockerignore"
+  - "node_modules"
+  - "vendor"

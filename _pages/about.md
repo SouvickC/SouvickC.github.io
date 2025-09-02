@@ -45,51 +45,18 @@ I enjoy building projects ranging from simple note-taking apps to advanced machi
    github="https://github.com/rmndrs89/advanced-time-series-prediction"
    image="/images/FOG.png"
    team="**Souvick Chakraborty**, [Dr. Robbin Romijnders](https://scholar.google.com/citations?user=LZYbIbUAAAAJ)" %}
-   
-
-<div style="display:flex;gap:12px;align-items:flex-start;">
-    <img src="{{ '/images/FOG.png' | relative_url }}" width="150" alt="FoG project" style="border-radius:8px; box-shadow:0 4px 8px rgba(0,0,0,0.15);">
-      <div>
-      <strong>
-        Automated Detection of Freezing of Gait in Parkinson's Disease from Accelerometer Data </strong>
-        <a href="https://github.com/rmndrs89/advanced-time-series-prediction">
-          <img src="https://img.shields.io/badge/Source-Code-black?logo=github" alt="GitHub"/>
-          </a><br>
-      Team : <strong>Souvick Chakraborty</strong>, 
-      <a href="https://scholar.google.com/citations?user=LZYbIbUAAAAJ">Dr. Robbin Romijnders</a>
-  </div>
-</div>
-
-<br>
-<div style="display:flex;gap:12px;align-items:flex-start;">
-  <img src="{{ '/images/notepad.png' | relative_url }}" width="150" alt="notepad project" style="border-radius:8px; box-shadow:0 4px 8px rgba(0,0,0,0.15);" >
-  <div>
-    <strong>
-      Offline Markdown Notepad with LLM Summarizer
-        </strong>
-        <a href="https://github.com/SouvickC/Markdown_Notepad" target="_blank">
-        <img src="https://img.shields.io/badge/Source-Code-black?logo=github" alt="GitHub"/>
-        </a>
-    <br>
-  </div>
-</div>
-
-<br>
-<div style="display:flex;gap:12px;align-items:flex-start;">
-  <img src="{{ '/images/scratch_project.png' | relative_url }}" width="150" alt="scratch project" style="border-radius:8px; box-shadow:0 4px 8px rgba(0,0,0,0.15);" >
-  <div>
-    <strong>
-      Building ML models from scratch
-        </strong>
-        <a href="https://github.com/SouvickC/from_scratch" target="_blank">
-        <img src="https://img.shields.io/badge/Source-Code-black?logo=github" alt="GitHub"/>
-        </a>
-    <br>
-  </div>
-</div>
 
 
+{% include project_card.html
+   title="Offline Markdown Notepad with LLM Summarizer"
+   github="https://github.com/SouvickC/Markdown_Notepad"
+   image="/images/notepad.png" %}
 
+
+{% include project_card.html
+   title="Building ML models from scratch"
+   github="https://github.com/SouvickC/from_scratch"
+   image="/images/scratch_project.png" %}
 
 
 
