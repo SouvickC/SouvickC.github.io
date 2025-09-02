@@ -53,7 +53,7 @@ I enjoy building projects ranging from simple note-taking apps to advanced machi
 
 <br>
 <div style="display:flex;gap:12px;align-items:flex-start;">
-  <img src="{{ '/images/scratch_project.png' | relative_url }}" width="150" alt="notepad project" style="border-radius:8px; box-shadow:0 4px 8px rgba(0,0,0,0.15);" >
+  <img src="{{ '/images/notepad.png' | relative_url }}" width="150" alt="notepad project" style="border-radius:8px; box-shadow:0 4px 8px rgba(0,0,0,0.15);" >
   <div>
     <strong>
       Offline Markdown Notepad with LLM Summarizer
@@ -67,7 +67,7 @@ I enjoy building projects ranging from simple note-taking apps to advanced machi
 
 <br>
 <div style="display:flex;gap:12px;align-items:flex-start;">
-  <img src="{{ '/images/scratch.png' | relative_url }}" width="150" alt="scratch project" style="border-radius:8px; box-shadow:0 4px 8px rgba(0,0,0,0.15);" >
+  <img src="{{ '/images/scratch_project.png' | relative_url }}" width="150" alt="scratch project" style="border-radius:8px; box-shadow:0 4px 8px rgba(0,0,0,0.15);" >
   <div>
     <strong>
       Building ML models from scratch
