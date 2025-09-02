@@ -1,0 +1,45 @@
+{%- comment -%}
+Reusable project card. Pass: title, image, github, subtitle, team, links (optional).
+{%- endcomment -%}
+
+{%- assign title   = include.title   | default: "Untitled project" -%}
+{%- assign image   = include.image   | default: "/images/placeholder.png" -%}
+{%- assign github  = include.github  -%}
+{%- assign subtitle= include.subtitle -%}
+{%- assign team    = include.team    -%}
+{%- assign links   = include.links   -%} {# optional: array of {url, label} #}
+
+<div class="project-card">
+  <img
+    src="{{ image | relative_url }}"
+    alt="{{ title | escape }}"
+    class="project-thumb"
+    loading="lazy"
+    decoding="async"
+  >
+  <div class="project-body">
+    <strong class="project-title">{{ title }}</strong>
+
+    {%- if github -%}
+      <a href="{{ github }}" class="project-badge" aria-label="Source code on GitHub">
+        <img src="https://img.shields.io/badge/Source-Code-black?logo=github" alt="GitHub"/>
+      </a>
+    {%- endif -%}
+
+    {%- if subtitle -%}
+      <div class="project-sub">{{ subtitle }}</div>
+    {%- endif -%}
+
+    {%- if team -%}
+      <div class="project-team">Team: {{ team | markdownify }}</div>
+    {%- endif -%}
+
+    {%- if links and links.size > 0 -%}
+      <div class="project-links">
+        {%- for L in links -%}
+          <a href="{{ L.url }}">{{ L.label }}</a>{% unless forloop.last %} · {% endunless %}
+        {%- endfor -%}
+      </div>
+    {%- endif -%}
+  </div>
+</div>
