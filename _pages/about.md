@@ -11,6 +11,8 @@ Hello, I am a Master's student at [CAU Kiel University](https://www.tf.uni-kiel.
 
 Along with my studies, I am working as a Research Assistant (HiWi) in the [Bio-Inspired Computation group](https://www.uni-kiel.de/en/tf/research/institute-etit/bio-inspired-computation) at CAU Kiel, led by [Prof. Dr. Jan Steinkühler](https://scholar.google.com/citations?user=2Dzpoo0AAAAJ&hl=en). My work mainly involves training and developing machine learning and deep learning pipelines for protein yield prediction, and integrating pipetting robots into the workflow for required experiments. 
 
+I enjoy building projects ranging from simple note-taking apps to advanced machine learning and signal processing models, each helping me explore adaptive data-driven systems. 
+
 I completed my Bachelor's in [Electronics & Instrumentation Engineering](https://heritageit.edu/AEIE.aspx) from [Heritage Institute of Technology](https://heritageit.edu/), Kolkata, India, in 2019.
 
 ## Modules covered so far in my Master’s
@@ -38,7 +40,6 @@ I completed my Bachelor's in [Electronics & Instrumentation Engineering](https:/
 Projects
 ---
 
-I enjoy building projects ranging from simple note-taking apps to advanced machine learning and signal processing models, each helping me explore adaptive data-driven systems
 
 {% include project_card.html
    title="Automated Detection of Freezing of Gait in Parkinson's Disease from Accelerometer Data"
@@ -46,17 +47,22 @@ I enjoy building projects ranging from simple note-taking apps to advanced machi
    image="/images/FOG.png"
    team="**Souvick Chakraborty**, [Dr. Robbin Romijnders](https://scholar.google.com/citations?user=LZYbIbUAAAAJ)" %}
 
+---
 
 {% include project_card.html
    title="Offline Markdown Notepad with LLM Summarizer"
    github="https://github.com/SouvickC/Markdown_Notepad"
    image="/images/notepad.png" %}
 
+---
 
 {% include project_card.html
    title="Building ML models from scratch"
    github="https://github.com/SouvickC/from_scratch"
    image="/images/scratch_project.png" %}
+
+---
+
 
 
 
