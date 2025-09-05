@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am a Master's student at [CAU Kiel University](https://www.tf.uni-kiel.de/etit/instetit/en?set_language=en), Germany, pursuing [Electrical and Information Technology](https://www.tf.uni-kiel.de/etit/instetit/en?set_language=en). 
+Hello, I am a Master's student at [Christian-Albrechts-Universität zu Kiel (Kiel University) ](https://www.tf.uni-kiel.de/etit/instetit/en?set_language=en), Germany, pursuing [Electrical and Information Technology](https://www.tf.uni-kiel.de/etit/instetit/en?set_language=en). 
 
 Along with my studies, I am working as a Research Assistant (HiWi) in the [Bio-Inspired Computation group](https://www.uni-kiel.de/en/tf/research/institute-etit/bio-inspired-computation) at CAU Kiel, led by [Prof. Dr. Jan Steinkühler](https://scholar.google.com/citations?user=2Dzpoo0AAAAJ&hl=en). My work mainly involves training and developing machine learning and deep learning pipelines for protein yield prediction, and integrating pipetting robots into the workflow for required experiments. 
 
@@ -62,7 +62,6 @@ Projects
    image="/images/scratch_project.png" %}
 
 ---
-
 
 
 
