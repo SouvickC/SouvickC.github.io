@@ -20,17 +20,18 @@ I completed my Bachelor's in [Electronics & Instrumentation Engineering](https:/
 
 
 <!-- - Bio-inspired Information Pathways   -->
-<!-- - Channel Coding   -->
 ### Core and Elective Modules
-- Advanced Digital Signal Processing, 
-- Pattern Recognition and Machine Learning, 
-- Essential Numerical Methods, 
-- Generative AI 
+- Advanced Digital Signal Processing 
+- Pattern Recognition and Machine Learning
+- Essential Numerical Methods
+- Generative AI
+- Channel Coding 
   
 ### Seminar and Laboratory
-- Seminar on Generative Artificial Intelligence, 
-- Seminar on Information and Coding Theory, 
-- Laboratory Real-time Signal Processing
+- Seminar on Generative Artificial Intelligence 
+- Seminar on Information and Coding Theory 
+- Laboratory Real-time Signal Processing 
+  - Time Series Prediction of Handovers for Maritime Autonomous Vehicles using Machine Learning
 <!-- - Advanced Digital Communications   -->
 
 
