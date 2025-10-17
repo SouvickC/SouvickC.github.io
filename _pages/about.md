@@ -19,13 +19,15 @@ I completed my Bachelor's in [Electronics & Instrumentation Engineering](https:/
 
 
 
-<!-- - Bio-inspired Information Pathways   -->
+
 ### Core and Elective Modules
 - Advanced Digital Signal Processing 
 - Pattern Recognition and Machine Learning
-- Essential Numerical Methods
 - Generative AI
+- Essential Numerical Methods
+- Bio-inspired Information Pathways
 - Channel Coding 
+- Adaptive Filter
   
 ### Seminar and Laboratory
 - Seminar on Generative Artificial Intelligence 
@@ -34,8 +36,6 @@ I completed my Bachelor's in [Electronics & Instrumentation Engineering](https:/
   - Time Series Prediction of Handovers for Maritime Autonomous Vehicles using Machine Learning
 <!-- - Advanced Digital Communications   -->
 
-
-<!-- - Adaptive Filters   -->
 
 
 Projects
