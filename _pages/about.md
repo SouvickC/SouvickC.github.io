@@ -15,26 +15,39 @@ I enjoy building projects ranging from simple note-taking apps to advanced machi
 
 I completed my Bachelor's in [Electronics & Instrumentation Engineering](https://heritageit.edu/AEIE.aspx) from [Heritage Institute of Technology](https://heritageit.edu/), Kolkata, India, in 2019.
 
-## Modules covered so far in my Master’s
+## Relevant Coursework
 
+<table style="width:100%; border-collapse:separate; border-spacing:0 12px;">
+  <tr>
+    <td style="width:50%; vertical-align:top; padding:14px; border:1px solid #e5e7eb; border-radius:10px; background:#fafafa;">
+      <strong style="font-size:1.05rem;">Core and Elective Modules</strong>
+      <ul style="margin-top:10px; margin-bottom:0;">
+        <li>Advanced Digital Signal Processing</li>
+        <li>Pattern Recognition and Machine Learning</li>
+        <li>Generative AI</li>
+        <li>Essential Numerical Methods</li>
+        <li>Bio-inspired Information Pathways</li>
+        <li>Channel Coding</li>
+        <li>Adaptive Filter</li>
+        <li>Optimization and Optimal Control</li>
+      </ul>
+    </td>
+    <td style="width:50%; vertical-align:top; padding:14px; border:1px solid #e5e7eb; border-radius:10px; background:#fafafa;">
+      <strong style="font-size:1.05rem;">Seminar and Laboratory</strong>
+      <ul style="margin-top:10px; margin-bottom:0;">
+        <li>Seminar on Generative Artificial Intelligence</li>
+        <li>Seminar on Information and Coding Theory</li>
+        <li>
+          Laboratory Real-time Signal Processing
+          <div style="margin-top:6px; font-size:0.95em; color:#374151;">
+            Project: Time Series Prediction of Handovers for Maritime Autonomous Vehicles using Machine Learning
+          </div>
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-
-
-### Core and Elective Modules
-- Advanced Digital Signal Processing 
-- Pattern Recognition and Machine Learning
-- Generative AI
-- Essential Numerical Methods
-- Bio-inspired Information Pathways
-- Channel Coding 
-- Adaptive Filter
-  
-### Seminar and Laboratory
-- Seminar on Generative Artificial Intelligence 
-- Seminar on Information and Coding Theory 
-- Laboratory Real-time Signal Processing 
-  - Time Series Prediction of Handovers for Maritime Autonomous Vehicles using Machine Learning
-<!-- - Advanced Digital Communications   -->
 
 
 
