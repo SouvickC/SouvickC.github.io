@@ -24,7 +24,7 @@ I completed my Bachelor's in [Electronics & Instrumentation Engineering](https:/
       <ul style="margin-top:10px; margin-bottom:0;">
         <li>Advanced Digital Signal Processing</li>
         <li>Pattern Recognition and Machine Learning</li>
-        <li>Generative AI</li>
+        <li>Generative AI (Vision focused)</li>
         <li>Essential Numerical Methods</li>
         <li>Bio-inspired Information Pathways</li>
         <li>Channel Coding</li>
@@ -82,6 +82,8 @@ Projects
 
 Recent News
 ----
+
+- Our project [Automated Detection of Freezing of Gait in Parkinson's Disease from Accelerometer Data](https://github.com/rmndrs89/advanced-time-series-prediction) has been nominated for the [VDE](https://www.vde-region-nord.de/de/ueber-uns/preise-ehrungen) Machine Learning Award in the category Advanced Innovator. 
 
 - I have started working as a Research Assistant in the [Bio-Inspired Computation group](https://www.uni-kiel.de/en/tf/research/institute-etit/bio-inspired-computation), CAU Kiel led by [Prof. Dr. Jan Steinkühler](https://scholar.google.com/citations?user=2Dzpoo0AAAAJ&hl=en)
 
