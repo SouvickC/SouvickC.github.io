@@ -9,7 +9,10 @@ redirect_from:
 
 Hello, I am a Master's student at [Christian-Albrechts-Universität zu Kiel (Kiel University) ](https://www.tf.uni-kiel.de/etit/instetit/en?set_language=en), Germany, pursuing [Electrical and Information Technology](https://www.tf.uni-kiel.de/etit/instetit/en?set_language=en). 
 
+
 Along with my studies, I am working as a Research Assistant (HiWi) in the [Bio-Inspired Computation group](https://www.uni-kiel.de/en/tf/research/institute-etit/bio-inspired-computation) at CAU Kiel, led by [Prof. Dr. Jan Steinkühler](https://scholar.google.com/citations?user=2Dzpoo0AAAAJ&hl=en). My work mainly involves training and developing machine learning and deep learning pipelines for protein yield prediction, and integrating pipetting robots into the workflow for required experiments. 
+
+I'm focusing on robotics, vision, reinforcement learning, 
 
 I enjoy building projects ranging from simple note-taking apps to advanced machine learning and signal processing models, each helping me explore adaptive data-driven systems. 
 
@@ -83,7 +86,8 @@ Projects
 Recent News
 ----
 
-- Our project [Automated Detection of Freezing of Gait in Parkinson's Disease from Accelerometer Data](https://github.com/rmndrs89/advanced-time-series-prediction) has been nominated for the [VDE](https://www.vde-region-nord.de/de/ueber-uns/preise-ehrungen) Machine Learning Award in the category Advanced Innovator. 
+- **Winner** of the [VDE Machine Learning Award](https://www.vde-region-nord.de/de/ueber-uns/preise-ehrungen) **Advanced Innovator 2026** category, for our project [Automated Detection of Freezing of Gait in Parkinson's Disease from Accelerometer Data](https://github.com/rmndrs89/advanced-time-series-prediction) 
+
 
 - I have started working as a Research Assistant in the [Bio-Inspired Computation group](https://www.uni-kiel.de/en/tf/research/institute-etit/bio-inspired-computation), CAU Kiel led by [Prof. Dr. Jan Steinkühler](https://scholar.google.com/citations?user=2Dzpoo0AAAAJ&hl=en)
 
