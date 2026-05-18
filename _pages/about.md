@@ -9,52 +9,25 @@ redirect_from:
 
 Hello, I am a Master's student at [Christian-Albrechts-Universität zu Kiel (Kiel University) ](https://www.tf.uni-kiel.de/etit/instetit/en?set_language=en), Germany, pursuing [Electrical and Information Technology](https://www.tf.uni-kiel.de/etit/instetit/en?set_language=en). 
 
+I'm focusing on Embodied AI, Deep Reinforcement Learning, Robot Learning under Partial Observability, 3D Computer
+Vision and Spatial Representation Learning. 
 
 Along with my studies, I am working as a Research Assistant (HiWi) in the [Bio-Inspired Computation group](https://www.uni-kiel.de/en/tf/research/institute-etit/bio-inspired-computation) at CAU Kiel, led by [Prof. Dr. Jan Steinkühler](https://scholar.google.com/citations?user=2Dzpoo0AAAAJ&hl=en). My work mainly involves training and developing machine learning and deep learning pipelines for protein yield prediction, and integrating pipetting robots into the workflow for required experiments. 
 
-I'm focusing on robotics, vision, reinforcement learning, 
 
 I enjoy building projects ranging from simple note-taking apps to advanced machine learning and signal processing models, each helping me explore adaptive data-driven systems. 
 
-I completed my Bachelor's in [Electronics & Instrumentation Engineering](https://heritageit.edu/AEIE.aspx) from [Heritage Institute of Technology](https://heritageit.edu/), Kolkata, India, in 2019.
 
 ## Relevant Coursework
 
-<table style="width:100%; border-collapse:separate; border-spacing:0 12px;">
-  <tr>
-    <td style="width:50%; vertical-align:top; padding:14px; border:1px solid #e5e7eb; border-radius:10px; background:#fafafa;">
-      <strong style="font-size:1.05rem;">Core and Elective Modules</strong>
-      <ul style="margin-top:10px; margin-bottom:0;">
-        <li>Advanced Digital Signal Processing</li>
-        <li>Pattern Recognition and Machine Learning</li>
-        <li>Generative AI (Vision focused)</li>
-        <li>Essential Numerical Methods</li>
-        <li>Bio-inspired Information Pathways</li>
-        <li>Channel Coding</li>
-        <li>Adaptive Filter</li>
-        <li>Optimization and Optimal Control</li>
-      </ul>
-    </td>
-    <td style="width:50%; vertical-align:top; padding:14px; border:1px solid #e5e7eb; border-radius:10px; background:#fafafa;">
-      <strong style="font-size:1.05rem;">Seminar and Laboratory</strong>
-      <ul style="margin-top:10px; margin-bottom:0;">
-        <li>Seminar on Generative Artificial Intelligence</li>
-        <li>Seminar on Information and Coding Theory</li>
-        <li>
-          Laboratory Real-time Signal Processing
-          <div style="margin-top:6px; font-size:0.95em; color:#374151;">
-            Project: Time Series Prediction of Handovers for Maritime Autonomous Vehicles using Machine Learning
-          </div>
-        </li>
-      </ul>
-    </td>
-  </tr>
-</table>
+**Core and Elective Modules:** Pattern Recognition and Machine Learning, Generative AI (Vision focused), Essential Numerical Methods, Swarm Communication and Navigation, Advanced Digital Signal Processing, Optimization and Optimal Control, Bio-inspired Information Pathways.
+
+**Seminar and Laboratory:**  Seminar on Generative Artificial Intelligence, Laboratory Real-time Signal Processing [Time Series Prediction of Handovers for Maritime Autonomous Vehicles using Machine Learning]
 
 
 
 
-Projects
+## Independent Projects
 ---
 
 
