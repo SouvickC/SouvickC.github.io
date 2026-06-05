@@ -12,9 +12,11 @@ main:
 
   - title: "Newsletter"
     url: https://souvickc.substack.com/
+    target: _blank
 
   - title: "Projects"
     url: https://github.com/SouvickC?tab=repositories
+    target: _blank
 
   - title: "Bookshelf"
     url:  
