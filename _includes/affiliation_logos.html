@@ -1,12 +1,17 @@
-<div class="affiliation-logos" aria-label="Institutions and organizations">
+<div class="affiliation-logos" aria-label="Institutions and organizations"
+     style="display:flex; flex-wrap:wrap; align-items:center; justify-content:space-around; gap:1.5rem; width:100%; margin:2rem 0;">
   {% for affiliation in site.data.affiliations %}
     {% if affiliation.url %}
-      <a class="affiliation-logo" href="{{ affiliation.url }}" aria-label="{{ affiliation.name }}" target="_blank" rel="noopener noreferrer">
-        <img src="{{ affiliation.logo | relative_url }}" alt="{{ affiliation.name }} logo" loading="lazy">
+      <a class="affiliation-logo" href="{{ affiliation.url }}" aria-label="{{ affiliation.name }}" target="_blank" rel="noopener noreferrer"
+         style="display:flex; align-items:center; justify-content:center; flex:1 1 120px; height:80px;">
+        <img src="{{ affiliation.logo | relative_url }}" alt="{{ affiliation.name }} logo" loading="lazy"
+             style="display:block; width:120px; height:70px; max-width:100%; object-fit:contain;">
       </a>
     {% else %}
-      <div class="affiliation-logo">
-        <img src="{{ affiliation.logo | relative_url }}" alt="{{ affiliation.name }} logo" loading="lazy">
+      <div class="affiliation-logo"
+           style="display:flex; align-items:center; justify-content:center; flex:1 1 120px; height:80px;">
+        <img src="{{ affiliation.logo | relative_url }}" alt="{{ affiliation.name }} logo" loading="lazy"
+             style="display:block; width:120px; height:70px; max-width:100%; object-fit:contain;">
       </div>
     {% endif %}
   {% endfor %}

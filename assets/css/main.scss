@@ -74,12 +74,13 @@
   align-items: center;
   justify-content: center;
   flex: 1 1 120px;
-  height: 90px;
+  height: 80px;
 }
 
 .affiliation-logo img {
-  width: 140px;
-  height: 80px;
+  display: block;
+  width: 120px;
+  height: 70px;
   max-width: 100%;
   object-fit: contain;
 }
