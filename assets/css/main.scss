@@ -61,3 +61,26 @@
   .project-thumb { width:100%; max-width:100%; }
 }
 
+.affiliation-logos {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.affiliation-logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 1 1 120px;
+  height: 90px;
+}
+
+.affiliation-logo img {
+  width: 140px;
+  height: 80px;
+  max-width: 100%;
+  object-fit: contain;
+}
+

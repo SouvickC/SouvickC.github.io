@@ -7,15 +7,33 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am a Master's student at [Christian-Albrechts-Universität zu Kiel (Kiel University) ](https://www.tf.uni-kiel.de/etit/instetit/en?set_language=en), Germany, pursuing [Electrical and Information Technology](https://www.tf.uni-kiel.de/etit/instetit/en?set_language=en). 
+Hello, I am a Master's student at [Christian-Albrechts-Universität zu Kiel (Kiel University) ](https://www.uni-kiel.de/en/), Germany, pursuing [Electrical and Information Engineering](https://www.uni-kiel.de/en/tf/study/msc-eie). 
 
-I'm focusing on Embodied AI, Deep Reinforcement Learning, Robot Learning under Partial Observability, 3D Computer
+My research interests include Embodied AI, Deep Reinforcement Learning, Robot Learning under Partial Observability, 3D Computer
 Vision and Spatial Representation Learning. 
 
-Along with my studies, I am working as a Research Assistant (HiWi) in the [Bio-Inspired Computation group](https://www.uni-kiel.de/en/tf/research/institute-etit/bio-inspired-computation) at CAU Kiel, led by [Prof. Dr. Jan Steinkühler](https://scholar.google.com/citations?user=2Dzpoo0AAAAJ&hl=en). My work mainly involves training and developing machine learning and deep learning pipelines for protein yield prediction, and integrating pipetting robots into the workflow for required experiments. 
+Currently, I'm working on my Master's thesis on "Vision-Based Manipulation Policy Learning for Quadruped Robots in Partially Observable
+Environments" under the supervision of [Prof. Dr. Sören Pirk](https://www.vcai-lab.org/team-pirk) and [Prof. Dr. Petro Feketa](https://www.uni-kiel.de/en/person/feketa-petro-73291).
 
 
-I enjoy building projects ranging from simple note-taking apps to advanced machine learning and signal processing models, each helping me explore adaptive data-driven systems. 
+Along with my studies, I am working as a Research Assistant (HiWi) in the [Bio-Inspired Computation group](https://www.uni-kiel.de/en/tf/research/institute-etit/bio-inspired-computation) at CAU Kiel, led by [Prof. Dr. Jan Steinkühler](https://scholar.google.com/citations?user=2Dzpoo0AAAAJ&hl=en). My work mainly involves training and developing machine learning pipelines for protein yield prediction, and integrating pipetting robots into experimental workflows.
+
+
+
+{% include affiliation_logos.html %}
+
+
+## Recent News
+----
+
+- **Winner** of the [VDE Machine Learning Award](https://www.vde-region-nord.de/de/ueber-uns/preise-ehrungen) **Advanced Innovator 2026** category, for our project [Automated Detection of Freezing of Gait in Parkinson's Disease from Accelerometer Data](https://github.com/rmndrs89/advanced-time-series-prediction)
+
+- I began my master's thesis on Embodied AI and Deep Reinforcement Learning
+
+- I have started working as a Research Assistant in the [Bio-Inspired Computation group](https://www.uni-kiel.de/en/tf/research/institute-etit/bio-inspired-computation), CAU Kiel led by [Prof. Dr. Jan Steinkühler](https://scholar.google.com/citations?user=2Dzpoo0AAAAJ&hl=en)
+
+- I have launched my own newsletter, where I curate my favorite reads, books, articles, research papers, podcasts, videos, foods and insights from my master's Journey in Germany. [[Link]](https://souvickc.substack.com/)
+
 
 
 ## Relevant Coursework
@@ -56,15 +74,7 @@ I enjoy building projects ranging from simple note-taking apps to advanced machi
 
 
 
-Recent News
-----
 
-- **Winner** of the [VDE Machine Learning Award](https://www.vde-region-nord.de/de/ueber-uns/preise-ehrungen) **Advanced Innovator 2026** category, for our project [Automated Detection of Freezing of Gait in Parkinson's Disease from Accelerometer Data](https://github.com/rmndrs89/advanced-time-series-prediction) 
-
-
-- I have started working as a Research Assistant in the [Bio-Inspired Computation group](https://www.uni-kiel.de/en/tf/research/institute-etit/bio-inspired-computation), CAU Kiel led by [Prof. Dr. Jan Steinkühler](https://scholar.google.com/citations?user=2Dzpoo0AAAAJ&hl=en)
-
-- I have launched my own newsletter, where I curate my favorite reads, books, articles, research papers, podcasts, videos, foods and insights from my master's Journey in Germany. [[Link]](https://souvickc.substack.com/)
 
  
 <!-- Student Talks

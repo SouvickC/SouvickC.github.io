@@ -1,0 +1,13 @@
+<div class="affiliation-logos" aria-label="Institutions and organizations">
+  {% for affiliation in site.data.affiliations %}
+    {% if affiliation.url %}
+      <a class="affiliation-logo" href="{{ affiliation.url }}" aria-label="{{ affiliation.name }}" target="_blank" rel="noopener noreferrer">
+        <img src="{{ affiliation.logo | relative_url }}" alt="{{ affiliation.name }} logo" loading="lazy">
+      </a>
+    {% else %}
+      <div class="affiliation-logo">
+        <img src="{{ affiliation.logo | relative_url }}" alt="{{ affiliation.name }} logo" loading="lazy">
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>
