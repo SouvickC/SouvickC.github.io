@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am a Master's student at [Christian-Albrechts-Universität zu Kiel (Kiel University) ](https://www.uni-kiel.de/en/), Germany, pursuing [Electrical and Information Engineering](https://www.uni-kiel.de/en/tf/study/msc-eie). 
+Hello, I am a Master's student at [Christian-Albrechts-Universität zu Kiel (Kiel University) ](https://www.uni-kiel.de/en/), Germany, pursuing [Electrical and Information Engineering](https://www.uni-kiel.de/en/tf/research/institute-etit). 
 
 My research interests include Embodied AI, Deep Reinforcement Learning, Robot Learning under Partial Observability, 3D Computer
 Vision and Spatial Representation Learning. 
