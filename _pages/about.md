@@ -9,11 +9,11 @@ redirect_from:
 
 Hello, I am a Master's student at [Christian-Albrechts-Universität zu Kiel (Kiel University) ](https://www.uni-kiel.de/en/), Germany, pursuing [Electrical and Information Engineering](https://www.uni-kiel.de/en/tf/research/institute-etit). 
 
-My research interests include Embodied AI, Deep Reinforcement Learning, Robot Learning under Partial Observability, 3D Computer
-Vision and Spatial Representation Learning. 
-
 Currently, I'm working on my Master's thesis on "Vision-Based Manipulation Policy Learning for Quadruped Robots in Partially Observable
 Environments" under the supervision of [Prof. Dr. Sören Pirk](https://www.vcai-lab.org/team-pirk) and [Prof. Dr. Petro Feketa](https://www.uni-kiel.de/en/person/feketa-petro-73291).
+
+My research interests include Embodied AI, Deep Reinforcement Learning, Robot Learning under Partial Observability, 3D Computer
+Vision and Spatial Representation Learning. 
 
 
 Along with my studies, I am working as a Research Assistant (HiWi) in the [Bio-Inspired Computation group](https://www.uni-kiel.de/en/tf/research/institute-etit/bio-inspired-computation) at CAU Kiel, led by [Prof. Dr. Jan Steinkühler](https://scholar.google.com/citations?user=2Dzpoo0AAAAJ&hl=en). My work mainly involves training and developing machine learning pipelines for protein yield prediction, and integrating pipetting robots into experimental workflows.

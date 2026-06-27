@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Master's Student in Electrical and Information Engineering at Kiel University"
   location         : "Kiel, Germany"
-  employer         : "Kiel University"
+  employer         : #"Kiel University"
   uri              : #https://www.tf.uni-kiel.de/etit/instetit/en
   email            : "souvickchakraborty100@gmail.com" 
 
