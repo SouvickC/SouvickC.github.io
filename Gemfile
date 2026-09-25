@@ -9,3 +9,6 @@ group :jekyll_plugins do
 end
 
 gem 'github-pages'
+
+# Windows does not provide the zoneinfo database required by Jekyll.
+gem 'tzinfo-data'

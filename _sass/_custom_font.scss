@@ -1,27 +1,71 @@
-/* Global font size adjustments */
+/* IBM Plex Mono, served from this site. */
+@font-face {
+  font-family: "IBM Plex Mono";
+  src: url("../fonts/ibm-plex-mono/IBMPlexMono-Regular.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
 
-/* Body text */
+@font-face {
+  font-family: "IBM Plex Mono";
+  src: url("../fonts/ibm-plex-mono/IBMPlexMono-Italic.woff2") format("woff2");
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "IBM Plex Mono";
+  src: url("../fonts/ibm-plex-mono/IBMPlexMono-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "IBM Plex Mono";
+  src: url("../fonts/ibm-plex-mono/IBMPlexMono-BoldItalic.woff2") format("woff2");
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+}
+
 body {
-  font-size: 15px;   /* reduce base font size */
-  line-height: 1.6;
+  font-size: 16px;
+  line-height: 1.65;
 }
 
-/* Override heading sizes */
-h1, .page__title {
-  font-size: 1.8em !important;
+/* Give article headings enough space to wrap cleanly. */
+.page__title,
+.page__content h1 {
+  font-size: 1.75rem;
+  line-height: 1.3;
+  overflow-wrap: break-word;
 }
-h2 {
-  font-size: 1.5em !important;
+.page__content h2 {
+  font-size: 1.4rem;
+  line-height: 1.35;
 }
-h3 {
-  font-size: 1.3em !important;
+.page__content h3 {
+  font-size: 1.18rem;
 }
-h4 {
-  font-size: 1.1em !important;
+.page__content h4 {
+  font-size: 1rem;
 }
-h5 {
-  font-size: 1em !important;
+.page__content h5 {
+  font-size: 0.95rem;
 }
-h6 {
-  font-size: 0.9em !important;
+.page__content h6 {
+  font-size: 0.9rem;
+}
+
+.page__content a {
+  overflow-wrap: anywhere;
+}
+
+.sidebar p,
+.sidebar li {
+  font-size: 14px;
+  line-height: 1.55;
 }
