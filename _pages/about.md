@@ -42,41 +42,6 @@ Along with my studies, I am working as a Research Assistant (HiWi) in the [Bio-I
 
 **Seminar and Laboratory:**  Seminar on Generative Artificial Intelligence, Laboratory Real-time Signal Processing [Time Series Prediction of Handovers for Maritime Autonomous Vehicles using Machine Learning]
 
-
-
-
-## Independent Projects
----
-
-
-{% include project_card.html
-   title="Automated Detection of Freezing of Gait in Parkinson's Disease from Accelerometer Data"
-   github="https://github.com/rmndrs89/advanced-time-series-prediction"
-   image="/images/FOG.png"
-   team="**Souvick Chakraborty**, [Dr. Robbin Romijnders](https://scholar.google.com/citations?user=LZYbIbUAAAAJ)" %}
-
----
-
-{% include project_card.html
-   title="Offline Markdown Notepad with LLM Summarizer"
-   github="https://github.com/SouvickC/Markdown_Notepad"
-   image="/images/notepad.png" %}
-
----
-
-{% include project_card.html
-   title="Building ML models from scratch"
-   github="https://github.com/SouvickC/from_scratch"
-   image="/images/scratch_project.png" %}
-
----
-
-
-
-
-
-
- 
 <!-- Student Talks
 --
 - Presented a **talk** on **"Pattern Recognition Techniques in Brain-Computer Interface (BCI)"** for the course *Pattern Recognition and Machine Learning*. [[Link]](https://dss-kiel.de/index.php/teaching/lectures/lecture-pattern-recognition), [[Presentation]](/files/PRML_Talk_SouvickC.pdf)

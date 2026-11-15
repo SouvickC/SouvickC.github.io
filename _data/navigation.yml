@@ -13,24 +13,3 @@ main:
   - title: "Newsletter"
     url: https://souvickc.substack.com/
     target: _blank
-
-  - title: "Projects"
-    url: https://github.com/SouvickC?tab=repositories
-    target: _blank
-
-  - title: "Bookshelf"
-    url:  
-
-  #- title: "Teaching"
-   # url: /teaching/    
-    
-#  - title: "Portfolio"
- #   url: /portfolio/
-        
-  #- title: "Blog Posts"
-   # url: /year-archive/
-    
-
-    
-  #- title: "Guide"
-   # url: /markdown/ 
