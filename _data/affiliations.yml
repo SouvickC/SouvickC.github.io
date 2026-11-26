@@ -6,7 +6,9 @@
 
 - name: "Johnson Controls"
   logo: "/images/jcilogo.png"
+  blend_background: true
 
 - name: "Heritage Institute of Technology"
   logo: "/images/HIT_logo.jpg"
   logo_height: 80
+  blend_background: true

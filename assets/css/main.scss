@@ -49,6 +49,8 @@
   align-items: center;
   gap: 1.5rem;
   margin: 2rem 0;
+  // Keep the page color behind the logos during the entrance animation.
+  background-color: $background-color;
 }
 
 .affiliation-logo {
@@ -65,5 +67,9 @@
   height: 70px;
   max-width: 100%;
   object-fit: contain;
+}
+
+.affiliation-logo--blend img {
+  mix-blend-mode: multiply;
 }
 

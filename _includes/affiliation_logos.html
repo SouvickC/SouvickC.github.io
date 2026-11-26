@@ -3,13 +3,13 @@
   {% for affiliation in site.data.affiliations %}
     {% assign logo_height = affiliation.logo_height | default: 70 %}
     {% if affiliation.url %}
-      <a class="affiliation-logo" href="{{ affiliation.url }}" aria-label="{{ affiliation.name }}" target="_blank" rel="noopener noreferrer"
+      <a class="affiliation-logo{% if affiliation.blend_background %} affiliation-logo--blend{% endif %}" href="{{ affiliation.url }}" aria-label="{{ affiliation.name }}" target="_blank" rel="noopener noreferrer"
          style="display:flex; align-items:center; justify-content:center; flex:1 1 120px; height:80px;">
         <img src="{{ affiliation.logo | relative_url }}" alt="{{ affiliation.name }} logo" loading="lazy"
              style="display:block; width:120px; height:{{ logo_height }}px; max-width:100%; object-fit:contain;">
       </a>
     {% else %}
-      <div class="affiliation-logo"
+      <div class="affiliation-logo{% if affiliation.blend_background %} affiliation-logo--blend{% endif %}"
            style="display:flex; align-items:center; justify-content:center; flex:1 1 120px; height:80px;">
         <img src="{{ affiliation.logo | relative_url }}" alt="{{ affiliation.name }} logo" loading="lazy"
              style="display:block; width:120px; height:{{ logo_height }}px; max-width:100%; object-fit:contain;">
